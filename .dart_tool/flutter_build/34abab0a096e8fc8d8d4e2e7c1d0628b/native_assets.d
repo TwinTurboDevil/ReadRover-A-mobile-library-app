@@ -1,0 +1,1 @@
+ C:\\Users\\Asus\\AndroidStudioProjects\\read_rover\\.dart_tool\\flutter_build\\34abab0a096e8fc8d8d4e2e7c1d0628b\\native_assets.yaml: 
