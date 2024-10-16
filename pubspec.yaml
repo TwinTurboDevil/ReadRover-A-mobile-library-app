@@ -12,7 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # Add other dependencies here
+  image_picker: ^0.8.4+4
 
 flutter_icons:
   android: true
@@ -22,8 +22,6 @@ flutter_icons:
   adaptive_icon_foreground: "assets/images/app_icon.png"
 
 dev_dependencies:
-  flutter:
-    sdk: flutter
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
