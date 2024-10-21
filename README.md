@@ -1,2 +1,2 @@
-# ReadRover-A-mobile-library-app
-This is an android mobile app developed with flutter framework
+# ReadRover-A-Mobile-Library-App
+This is an android mobile app developed with flutter framework.
